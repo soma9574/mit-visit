@@ -17,7 +17,27 @@ The visit will cover the following main areas, providing a comprehensive view of
 - [Laboratory for Information and Decision Systems (LIDS)](#lids)
 - [Research Laboratory of Electronics (RLE)](#rle)
 
-## Labs and Professors
+# Professors and Researchers
+
+During our visit, we will have the privilege of meeting with several distinguished professors and researchers from MIT. Here is an overview of who we will meet and links to their MIT bios for more detailed information:
+
+- **[Sertac Karaman](https://www.mit.edu/~sertac/)** - Specializes in autonomous systems and robotics.
+- **[Daniela Rus](http://danielarus.csail.mit.edu/)** - Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) with a focus on robotics.
+- **[Dave Newman](https://aeroastro.mit.edu/faculty-research/faculty-list/dava-newman)** - Expert in aerospace biomedical engineering.
+- **[Hugh Herr](https://www.media.mit.edu/people/hherr/overview/)** - Leads the Biomechatronics group in the Media Lab, focusing on bionic limbs.
+- **[Ed Boyden](https://www.media.mit.edu/people/boyden/overview/)** - Pioneer in the fields of neuroengineering and optogenetics.
+- **[Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)** - Director of the Human Dynamics group and the MIT Media Lab Entrepreneurship Program.
+- **[Rosalind Picard](https://www.media.mit.edu/people/picard/overview/)** - Founder and director of the Affective Computing Research Group.
+- **[Ramesh Raskar](https://www.media.mit.edu/people/raskar/overview/)** - Associate Professor at the Media Lab and leader of the Camera Culture research group.
+- **[Fadel Adib](https://www.media.mit.edu/people/fadel/overview/)** - Founding director of the Signal Kinetics research group.
+- **[Will Oliver](https://www.rle.mit.edu/people/directory/william-d-oliver/)** - Associate professor in the Department of Electrical Engineering and Computer Science (EECS) and the Research Laboratory of Electronics (RLE).
+- **[Vladan Vuletic](https://www.rle.mit.edu/people/directory/vladan-vuletic/)** - Leader in the field of quantum optics and atomic physics.
+
+Each of these individuals has made significant contributions to their fields, and we look forward to learning from their insights and expertise.
+
+---
+
+
 
 ### Media Lab
 The Media Lab is renowned for its interdisciplinary research where technology intersects with art, science, and design. It's a place where the future is being imagined and created.
