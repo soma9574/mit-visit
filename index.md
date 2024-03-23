@@ -23,7 +23,7 @@ During our visit, we will have the privilege of meeting with several distinguish
 
 - **[Sertac Karaman](https://www.mit.edu/~sertac/)** - Specializes in autonomous systems and robotics.
 - **[Daniela Rus](http://danielarus.csail.mit.edu/)** - Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) with a focus on robotics.
-- **[Dave Newman](https://aeroastro.mit.edu/faculty-research/faculty-list/dava-newman)** - Expert in aerospace biomedical engineering.
+- **[Dava Newman](https://davanewman.com)** - Expert in aerospace biomedical engineering.
 - **[Hugh Herr](https://www.media.mit.edu/people/hherr/overview/)** - Leads the Biomechatronics group in the Media Lab, focusing on bionic limbs.
 - **[Ed Boyden](https://www.media.mit.edu/people/boyden/overview/)** - Pioneer in the fields of neuroengineering and optogenetics.
 - **[Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)** - Director of the Human Dynamics group and the MIT Media Lab Entrepreneurship Program.
