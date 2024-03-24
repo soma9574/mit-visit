@@ -1,4 +1,4 @@
-## Labs We'll Visit
+## Labs
 These labs represent the forefront of innovation in their respective fields, providing a comprehensive view of MIT's innovative environment.
 
 ### [LIDS (Laboratory for Information and Decision Systems)](https://lids.mit.edu/)
