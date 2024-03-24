@@ -1,5 +1,3 @@
-# MIT Visit
-
 This visit will showcase several key research laboratories and departments, demonstrating the cutting-edge work being done at MIT.
 
 ## Labs
