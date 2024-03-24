@@ -25,7 +25,7 @@ During our visit, we will have the privilege of meeting with several distinguish
 - **[Daniela Rus](http://danielarus.csail.mit.edu/)** - Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) with a focus on robotics.
 - **[Dava Newman](https://davanewman.com)** - Expert in aerospace biomedical engineering.
 - **[Hugh Herr](https://www.media.mit.edu/people/hherr/overview/)** - Leads the Biomechatronics group in the Media Lab, focusing on bionic limbs.
-- **[Ed Boyden](https://www.media.mit.edu/people/boyden/overview/)** - Pioneer in the fields of neuroengineering and optogenetics.
+- **[Ed Boyden](https://www.media.mit.edu/people/esb/overview/)** - Pioneer in the fields of neuroengineering and optogenetics.
 - **[Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)** - Director of the Human Dynamics group and the MIT Media Lab Entrepreneurship Program.
 - **[Rosalind Picard](https://www.media.mit.edu/people/picard/overview/)** - Founder and director of the Affective Computing Research Group.
 - **[Ramesh Raskar](https://www.media.mit.edu/people/raskar/overview/)** - Associate Professor at the Media Lab and leader of the Camera Culture research group.
